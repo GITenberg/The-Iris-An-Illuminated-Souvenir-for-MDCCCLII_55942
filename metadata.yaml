@@ -1,0 +1,31 @@
+_repo: The-Iris-An-Illuminated-Souvenir-for-MDCCCLII_55942
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+  editor:
+    agent_name: Hart, John S. (John Seely)
+    alias: Hart, John Seely
+    birthdate: 1810
+    deathdate: 1877
+    gutenberg_agent_id: '34986'
+    url: http://www.gutenberg.org/2009/agents/34986
+    wikipedia: http://en.wikipedia.org/wiki/John_Seely_Hart
+description: ''
+gutenberg_issued: '2017-11-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '55942'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The Iris
+
+  An Illuminated Souvenir for MDCCCLII'
+url: http://www.gutenberg.org/ebooks/55942
